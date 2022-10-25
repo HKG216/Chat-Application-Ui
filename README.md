@@ -4,7 +4,7 @@ Designed by Hamse Abdi.
 - Learinig Mobile Appilcation in @Tiigsi Technology
 
 ## Chat Application Ui
-![alt text](https://github.com/HamseAbdi03/Chat-Application-Ui/blob/main/preview/pre1.jpg)
+![alt text](https://github.com/HamseAbdi03/Chat-Application-Ui/blob/main/preview/pre1.jpg) 
 ![alt text](https://github.com/HamseAbdi03/Chat-Application-Ui/blob/main/preview/pre2.jpg)
 ![alt text](https://github.com/HamseAbdi03/Chat-Application-Ui/blob/main/preview/pre3.jpg)
 
